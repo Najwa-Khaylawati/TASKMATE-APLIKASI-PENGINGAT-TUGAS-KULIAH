@@ -62,6 +62,7 @@ Pengguna aplikasi ini adalah mahasiswa yang membutuhkan alat bantu sederhana unt
 # 4. Kebutuhan Non-Fungsional
 
 | Kode | Deskripsi |
+|------|-----------|
 |RNF001|Sistem merespons input pengguna dalam waktu kurang dari 1 detik.|
 |RNF002|Sistem dapat dijalankan dengan Python 3.x di Windows, Linux, dan macOS.|
 |RNF003|Antarmuka CLI sederhana dan mudah dipahami.|
