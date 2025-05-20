@@ -3,7 +3,7 @@ Disusun Oleh:
 | Nama                     | Nim       |
 |--------------------------|-----------|
 | Salsabila Fitri Ramadhani| 2310511002|
-| Najwa Khaylawati        | 2310511008|
+| Najwa Khaylawati         | 2310511008|
 | Nurhaliza                | 2310511028|
 # 1. Pendahuluan
 
@@ -90,13 +90,38 @@ Dijalankan menggunakan Python 3.x dengan memanfaatkan modul standar seperti json
 
 # 7. Lampiran
 Struktur kode program:
-main.py: berisi logika utama dan tampilan menu.
-
-
-task_manager.py: menangani fungsi penambahan, penghapusan, dan penampilan tugas.
-storage.py: bertanggung jawab atas penyimpanan dan pemuatan data dalam file JSON.
+- main.py: berisi logika utama dan tampilan menu.
+- task_manager.py: menangani fungsi penambahan, penghapusan, dan penampilan tugas.
+- storage.py: bertanggung jawab atas penyimpanan dan pemuatan data dalam file JSON.
 
 
 Lampiran tambahan:
-Screenshot tampilan terminal (menu & daftar tugas).
-Diagram alur proses kerja aplikasi.
+1. Screenshot tampilan terminal (menu & daftar tugas).
+
+- Struktur File:
+  - Task Manager.py
+  - Storage.py
+  - Main.py
+
+- Hasil Running:
+
+  - Input 1
+
+    ![image](https://github.com/user-attachments/assets/595f8158-3a48-4fb9-b731-b06ce2875eee)
+
+  - Input 2
+
+    ![image](https://github.com/user-attachments/assets/2b8d43db-ac10-4af0-95a5-7149993bd02a)
+
+  - Input 3
+
+    ![image](https://github.com/user-attachments/assets/afbe822e-37b3-4710-a846-bce6770801bc)
+
+  - Input 4
+
+    ![image](https://github.com/user-attachments/assets/12a13f55-c740-437c-a522-9ef86a477b0c)
+
+2. Diagram alur proses kerja aplikasi.
+
+    ![image](https://github.com/user-attachments/assets/2b877326-28a3-4b27-aca9-4853c5e8fe13)
+
