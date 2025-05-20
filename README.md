@@ -3,7 +3,7 @@ Disusun Oleh:
 | Nama                     | Nim       |
 |--------------------------|-----------|
 | Salsabila Fitri Ramadhani| 2310511002|
-| Najwa Khaylawatai        | 2310511008|
+| Najwa Khaylawati        | 2310511008|
 | Nurhaliza                | 2310511028|
 # 1. Pendahuluan
 
