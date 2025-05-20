@@ -1,5 +1,13 @@
 # TASKMATE-APLIKASI-PENGINGAT-TUGAS-KULIAH
 
+## Disusun Oleh
+
+ | Nama | NIM |
+ |--------|------|
+ | Salsabila Fitri Ramadhani | 2310511002 |
+ | Najwa Khaylawati | 2310511008 |
+ | Nurhaliza	| 2310511028 |
+
 1. Pendahuluan
 1.1 Tujuan
 Dokumen ini disusun untuk menjabarkan kebutuhan perangkat lunak, baik dari sisi fungsional maupun non-fungsional, dari aplikasi TaskMate. Aplikasi ini dirancang sebagai pengingat tugas kuliah berbasis terminal (CLI) yang dibangun menggunakan bahasa pemrograman Python. Tujuan utamanya adalah membantu mahasiswa dalam mencatat, mengelola, serta menghapus daftar tugas perkuliahan dengan cara yang efisien dan mudah digunakan.
